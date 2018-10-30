@@ -1,5 +1,4 @@
 
-
 1.	Parsed data, return column names, data, and column index.
 	def read_data(h1b_input)
 	
@@ -24,13 +23,3 @@
 Run with Python3 and pass all tests.
 
  
-Preferreds-Mac-mini:insight_testsuite Home$ ./run_tests.sh 
-[ PASS ]: test_1 
-[ PASS ]: test_1 top_10_states.txt
-[Tue Oct 30 01:24:12 MDT 2018] 1 of 1 tests passed
-Preferreds-Mac-mini:insight_testsuite Home$ more results.txt 
-[Tue Oct 30 00:15:12 MDT 2018] 1 of 1 tests passed
-[Tue Oct 30 00:17:46 MDT 2018] 1 of 1 tests passed
-[Tue Oct 30 01:21:39 MDT 2018] 1 of 1 tests passed
-[Tue Oct 30 01:24:12 MDT 2018] 1 of 1 tests passed
-Preferreds-Mac-mini:insight_testsuite Home$ 
